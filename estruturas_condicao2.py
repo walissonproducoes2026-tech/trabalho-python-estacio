@@ -1,9 +1,0 @@
-tempoExperiencia = 3
-if tempoExperiencia <2:
-    print('Nível de conhecimento júnior.')
-if tempoExperiencia >5:
-    print('Nível de conhecimento pleno.')
-if tempoExperiencia >2:
-    print('Nível de conhecimento pleno.')
-else:
-    print('Nível de conhecimento sênior.')
